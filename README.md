@@ -1,4 +1,3 @@
-## Project Overview
 
 **Fraud-Detection-Pipeline-Using-Azure-Databricks**
 
